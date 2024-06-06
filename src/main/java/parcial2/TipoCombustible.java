@@ -1,5 +1,8 @@
 package parcial2;
 
+/*
+*Complejidad Temporal: complejidad constante O(1)
+*/
 public enum TipoCombustible {
-    // TODO: Tu código va aquí
+    GASOLINA,ELECTRICO,HIBRIDO;
 }
